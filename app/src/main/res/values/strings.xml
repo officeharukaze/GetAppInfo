@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TOREMARU APP INFO</string>
+
+    <array name="spEval_label">
+        <item>全件</item>
+        <item>動画アプリ</item>
+        <item>SYSTEM</item>
+        <item>SYSTEM以外</item>
+    </array>
+
+</resources>
