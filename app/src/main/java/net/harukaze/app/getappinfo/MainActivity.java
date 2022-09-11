@@ -92,6 +92,7 @@ public class MainActivity extends AppCompatActivity {
               pkgInfo.packageName.startsWith("com.dazn") ||
               pkgInfo.packageName.startsWith("com.dmm") ||
               pkgInfo.packageName.startsWith("jp.co.disney") ||
+              pkgInfo.packageName.startsWith("com.disney") ||
               pkgInfo.packageName.startsWith("air.jp.co.fujitv") ||
               pkgInfo.packageName.startsWith("jp.co.rakuten.video") ||
               pkgInfo.packageName.startsWith("com.kddi") ||
